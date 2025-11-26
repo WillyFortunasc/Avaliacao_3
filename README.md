@@ -74,18 +74,4 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 
 ## Tela do Swagger UI
 
-<img width="1918" height="969" alt="1" src="https://github.com/user-attachments/assets/d94978b2-500a-4c2c-a67d-ecec75bb3983" />
-<img width="1914" height="966" alt="2" src="https://github.com/user-attachments/assets/ee56e066-e563-49d3-8099-7bc9ee2a48d9" />
-<img width="1919" height="968" alt="3" src="https://github.com/user-attachments/assets/845e0f77-3eb4-4ccb-88ce-28943549aec5" />
-<img width="1919" height="965" alt="4" src="https://github.com/user-attachments/assets/009385f4-4a1b-48b2-b4e9-63452e78e908" />
-<img width="1917" height="961" alt="5" src="https://github.com/user-attachments/assets/126e17ae-6cc3-4fe2-92a0-05bb3dd37d6d" />
-<img width="1919" height="967" alt="6" src="https://github.com/user-attachments/assets/49d1f2db-71aa-46af-a59f-6bca5bb01d3e" />
-<img width="1916" height="967" alt="7" src="https://github.com/user-attachments/assets/7c8f3ab1-bab7-4643-8b84-43fcaf928cde" />
-<img width="1915" height="816" alt="8" src="https://github.com/user-attachments/assets/cbca4817-47fd-49cc-8326-de1da8ed606e" />
-<img width="1918" height="971" alt="9" src="https://github.com/user-attachments/assets/331bf7fc-7eab-439c-afa1-e22a5c238066" />
-<img width="1913" height="973" alt="10" src="https://github.com/user-attachments/assets/39832762-5772-4a4b-a272-96c8b85c4dec" />
-<img width="1917" height="970" alt="11" src="https://github.com/user-attachments/assets/01e4c19e-884a-4d17-813b-a45146335c3e" />
-<img width="1918" height="969" alt="12" src="https://github.com/user-attachments/assets/256eb024-4d2a-4907-b961-532585b7f7d1" />
 
-
-![Seedlings are exuberant from abundant loamy soils, nutrients in plant_ _ Premium Photo](https://github.com/user-attachments/assets/f7f32677-e667-4341-aa0e-19851d9e05d1)
