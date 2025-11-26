@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ou 
 
 pip install fastapi uvicorn sqlalchemy pydantic
-
+```
 
 # 2. Rode o servidor
 
