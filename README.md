@@ -75,3 +75,4 @@ https://github.com/WillyFortunasc/MeusProjetos_Python/tree/main/Rest_willy.pedid
 ## Tela do Swagger UI
 
 
+![planta](https://github.com/user-attachments/assets/9691925f-29a2-43ee-b395-a9cef5eb5372)
