@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Gerenciamento de Pedidos
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
