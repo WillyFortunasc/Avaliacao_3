@@ -96,3 +96,10 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 - Para rodar no Windows, o loop de eventos é ajustado automaticamente.
 
 ---
+## Prints dos métodos
+
+1. Tela do Swagger
+<img width="1917" height="967" alt="1 swagger" src="https://github.com/user-attachments/assets/1322ac18-0d1d-4709-8e7a-c2a84eea07f6" />
+
+2. Parte de baixo da tela do Swagger
+<img width="1919" height="969" alt="2 swagger" src="https://github.com/user-attachments/assets/3a96a09a-cc49-4884-a94d-faa067e13d00" />
