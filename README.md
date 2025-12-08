@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # API de Gerenciamento de Pedidos
 
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)
@@ -11,7 +10,7 @@
 
 ## Descrição
 
-Este projeto é uma API REST para gerenciamento de pedidos, construída com FastAPI, SQLAlchemy e Pydantic. O código está organizado em camadas para facilitar manutenção, testes e escalabilidade.
+Este projeto consiste em uma API REST para gerenciamento de pedidos, desenvolvida a partir da estrutura do professor Claudio Ulisse do IFB, utilizando FastAPI, SQLAlchemy e Pydantic. O código foi estruturado em camadas para garantir melhor manutenção, facilidade nos testes e maior escalabilidade.
 
 ---
 
@@ -113,19 +112,19 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 4.2 Cria Cliente
 <img width="1915" height="909" alt="4 2criar_clientes" src="https://github.com/user-attachments/assets/06a50c49-8432-4f46-a374-876ffe62edb6" />
 
-5.1 Listar Cliente
+5. Listar Cliente
 <img width="1919" height="907" alt="5 1listar_clientes" src="https://github.com/user-attachments/assets/8455c465-6e32-42da-b933-99af04807dac" />
 
-6.1 Ler Cliente
+6. Ler Cliente
 <img width="1917" height="910" alt="6 1ler_cliente" src="https://github.com/user-attachments/assets/1fc8d754-f277-4743-8ebb-2a7581388605" />
 
-7.1 Atualizar Cliente
+7. Atualizar Cliente
 <img width="1919" height="913" alt="8 1atualizar_cliente" src="https://github.com/user-attachments/assets/d24862f0-501d-4da0-9a62-373a8cd62211" />
 
-8.1 Deletar Cliente
-<img width="1917" height="912" alt="9 1delete_cliente" src="https://github.com/user-attachments/assets/8cfea922-c4e4-4d2e-abd5-09f5773abd3b" />
+8. Deletar Cliente
+<img width="1919" height="908" alt="Captura de tela 2025-12-08 162833" src="https://github.com/user-attachments/assets/2a57f2f0-ae75-493b-abd1-1ce200716ff3" />
 
-9.1 Criar Pedido
+9. Criar Pedido
 <img width="1908" height="911" alt="10 criar_pedido" src="https://github.com/user-attachments/assets/eca5c17e-9b04-42f3-bb21-836c1689a9fc" />
 
 10. Listar Pedido
@@ -139,23 +138,3 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 
 13. Deletar Pedido
 <img width="1912" height="896" alt="14 deletar_pedido" src="https://github.com/user-attachments/assets/0765d312-edb8-44f5-8eaa-c483c23ada64" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
