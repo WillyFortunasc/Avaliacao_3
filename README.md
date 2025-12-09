@@ -125,14 +125,20 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 <img width="1919" height="908" alt="Captura de tela 2025-12-08 162833" src="https://github.com/user-attachments/assets/2a57f2f0-ae75-493b-abd1-1ce200716ff3" />
 
 9. Criar Pedido
+<img width="1919" height="906" alt="Criar_pedido" src="https://github.com/user-attachments/assets/ca990179-5615-4fa9-9ffd-9dddae7a8929" />
 
 10. Listar Pedido
+<img width="1906" height="903" alt="Listar_pedido" src="https://github.com/user-attachments/assets/ece105d3-3d87-49a8-81c9-3ce430ba1450" />
 
 11. Ler Pedido
+<img width="1919" height="908" alt="Ler_pedido" src="https://github.com/user-attachments/assets/62ae147b-2cb6-49f6-9946-f1b204201909" />
 
 
 12. Atualizar Pedido
+<img width="1912" height="866" alt="Atualizar_pedidoI" src="https://github.com/user-attachments/assets/7bc577eb-5d82-49d7-957d-50fc32db1a36" />
+<img width="1915" height="699" alt="Atualizar_pedidoII" src="https://github.com/user-attachments/assets/d96d3b8f-7d2d-4860-a540-fee917270737" />
 
 
 13. Deletar Pedido
+<img width="1919" height="761" alt="Deletar_pedido" src="https://github.com/user-attachments/assets/7dbd8ba4-3186-49a5-b715-251c782cf28d" />
 
