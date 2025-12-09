@@ -106,10 +106,9 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 3. Tela do Redoc
 <img width="1919" height="968" alt="3 Redoc" src="https://github.com/user-attachments/assets/bf6c30d9-871a-4198-801a-ade32f4880d4" />
 
-4.1 Criar Cliente
+4. Criar Cliente
 <img width="1915" height="898" alt="4 1criar_clientes" src="https://github.com/user-attachments/assets/102d0e28-b87c-4b04-95aa-0b583f47a3a3" />
 
-4.2 Cria Cliente
 <img width="1915" height="909" alt="4 2criar_clientes" src="https://github.com/user-attachments/assets/06a50c49-8432-4f46-a374-876ffe62edb6" />
 
 5. Listar Cliente
