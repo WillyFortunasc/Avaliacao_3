@@ -123,7 +123,9 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 
 
 8. Deletar Cliente
-<img width="1919" height="908" alt="Captura de tela 2025-12-08 162833" src="https://github.com/user-attachments/assets/2a57f2f0-ae75-493b-abd1-1ce200716ff3" />
+<img width="1919" height="774" alt="Captura de tela 2025-12-09 132205" src="https://github.com/user-attachments/assets/38313622-b48b-40fd-aa96-27efdd0affc4" />
+<img width="1912" height="551" alt="Captura de tela 2025-12-09 132256" src="https://github.com/user-attachments/assets/c74bfae2-d4d8-41f9-a407-ceb75770b9ce" />
+
 
 9. Criar Pedido
 <img width="1919" height="906" alt="Criar_pedido" src="https://github.com/user-attachments/assets/ca990179-5615-4fa9-9ffd-9dddae7a8929" />
