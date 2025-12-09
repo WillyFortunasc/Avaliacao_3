@@ -119,6 +119,8 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 
 7. Atualizar Cliente
 <img width="1919" height="913" alt="8 1atualizar_cliente" src="https://github.com/user-attachments/assets/d24862f0-501d-4da0-9a62-373a8cd62211" />
+<img width="1919" height="709" alt="Captura de tela 2025-12-09 131848" src="https://github.com/user-attachments/assets/95ce1995-8067-44f0-b056-e6ed803f56e1" />
+
 
 8. Deletar Cliente
 <img width="1919" height="908" alt="Captura de tela 2025-12-08 162833" src="https://github.com/user-attachments/assets/2a57f2f0-ae75-493b-abd1-1ce200716ff3" />
