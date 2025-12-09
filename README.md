@@ -106,10 +106,9 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 3. Tela do Redoc
 <img width="1919" height="968" alt="3 Redoc" src="https://github.com/user-attachments/assets/bf6c30d9-871a-4198-801a-ade32f4880d4" />
 
-4.1 Criar Cliente
+4. Criar Cliente
 <img width="1915" height="898" alt="4 1criar_clientes" src="https://github.com/user-attachments/assets/102d0e28-b87c-4b04-95aa-0b583f47a3a3" />
 
-4.2 Cria Cliente
 <img width="1915" height="909" alt="4 2criar_clientes" src="https://github.com/user-attachments/assets/06a50c49-8432-4f46-a374-876ffe62edb6" />
 
 5. Listar Cliente
@@ -120,19 +119,28 @@ Utilize o Swagger UI ou ferramentas como Postman, Insomnia, ou curl para testar 
 
 7. Atualizar Cliente
 <img width="1919" height="913" alt="8 1atualizar_cliente" src="https://github.com/user-attachments/assets/d24862f0-501d-4da0-9a62-373a8cd62211" />
+<img width="1919" height="709" alt="Captura de tela 2025-12-09 131848" src="https://github.com/user-attachments/assets/95ce1995-8067-44f0-b056-e6ed803f56e1" />
+
 
 8. Deletar Cliente
-<img width="1919" height="908" alt="Captura de tela 2025-12-08 162833" src="https://github.com/user-attachments/assets/2a57f2f0-ae75-493b-abd1-1ce200716ff3" />
+<img width="1919" height="774" alt="Captura de tela 2025-12-09 132205" src="https://github.com/user-attachments/assets/38313622-b48b-40fd-aa96-27efdd0affc4" />
+<img width="1912" height="551" alt="Captura de tela 2025-12-09 132256" src="https://github.com/user-attachments/assets/c74bfae2-d4d8-41f9-a407-ceb75770b9ce" />
+
 
 9. Criar Pedido
+<img width="1919" height="906" alt="Criar_pedido" src="https://github.com/user-attachments/assets/ca990179-5615-4fa9-9ffd-9dddae7a8929" />
 
 10. Listar Pedido
+<img width="1906" height="903" alt="Listar_pedido" src="https://github.com/user-attachments/assets/ece105d3-3d87-49a8-81c9-3ce430ba1450" />
 
 11. Ler Pedido
+<img width="1919" height="908" alt="Ler_pedido" src="https://github.com/user-attachments/assets/62ae147b-2cb6-49f6-9946-f1b204201909" />
 
 
 12. Atualizar Pedido
+<img width="1912" height="866" alt="Atualizar_pedidoI" src="https://github.com/user-attachments/assets/7bc577eb-5d82-49d7-957d-50fc32db1a36" />
+<img width="1915" height="699" alt="Atualizar_pedidoII" src="https://github.com/user-attachments/assets/d96d3b8f-7d2d-4860-a540-fee917270737" />
 
 
 13. Deletar Pedido
-
+<img width="1919" height="761" alt="Deletar_pedido" src="https://github.com/user-attachments/assets/7dbd8ba4-3186-49a5-b715-251c782cf28d" />
